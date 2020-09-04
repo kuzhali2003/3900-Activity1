@@ -1,0 +1,38 @@
+h1{
+     color:white;
+}
+body{
+background-color:black;
+color:white;
+font-size:20px;
+line-height:1.6em;
+}
+img{
+max-width: 50%;
+}
+.container{
+width:80%;
+margin:auto;
+overflow:hidden;
+}
+#main{
+  float:right;
+  width:940px;
+  background:white;
+  font-family:Arial nova;
+  color:black;
+   padding:0 5%;
+  box-sizing:border-box;
+  }
+.my-image{
+border:20px solid blue;
+float:left;
+width:500px;
+height;175px;
+margin:20px;
+}
+
+
+
+
+
