@@ -1,14 +1,27 @@
 h1{
-     color:white;
+   margin-left: 25px;
+   color:gold;
 }
 body{
-background-color:black;
-color:white;
+background-image:url('kulali-abstract-swirl.jpg');
+color:gold;
 font-size:20px;
-line-height:1.6em;
+line-height:1.3em;
+}
+
+a:hover{
+        color:white;
+       }
+.block{
+float: left;
+width: 25%;
+box-sizing:border-box;
+}
+.clr{
+clear:both
 }
 img{
-max-width: 50%;
+max-width: 100%;
 }
 .container{
 width:80%;
@@ -17,21 +30,24 @@ overflow:hidden;
 }
 #main{
   float:right;
-  width:940px;
-  background:white;
+  width:960px;
+  background:light blue;
   font-family:Arial nova;
-  color:black;
+  color:gold;
    padding:0 5%;
+   border:10px double gold;
   box-sizing:border-box;
   }
 .my-image{
-border:20px solid blue;
+border:20px solid gold;
 float:left;
 width:500px;
 height;175px;
 margin:20px;
 }
-
+#my-interests{
+color:gold;
+}
 
 
 
