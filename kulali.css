@@ -2,6 +2,16 @@ h1{
    margin-left: 25px;
    color:gold;
 }
+.home{
+float: right;
+color: gold;
+font-size: 20px;
+}
+a:visited {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
 body{
 background-image:url('kulali-abstract-swirl.jpg');
 color:gold;
@@ -10,7 +20,7 @@ line-height:1.3em;
 }
 
 a:hover{
-        color:white;
+        color:red;
        }
 .block{
 float: left;
